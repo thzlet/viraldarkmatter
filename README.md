@@ -40,8 +40,8 @@ Companion repository of the undergraduate thesis *"Matéria Escura Viral: uma Re
 | File | Content |
 | --- | --- |
 | [`protocol.md`](protocol.md) | Scope, search strings, eligibility criteria, extraction fields and appraisal |
-| [`data/study_register.csv`](data/study_register.csv) | All 46 records with stage, decision and exclusion criterion |
-| [`data/data_extraction.csv`](data/data_extraction.csv) | Characteristics of the 8 included studies |
+| [`data/study_register.md`](data/study_register.md) | All 46 records with stage, decision and exclusion criterion |
+| [`data/data_extraction.md`](data/data_extraction.md) | Characteristics of the 8 included studies |
 
 Metrics are reported as published by each study's authors. Results obtained by tool developers on their own benchmarks are not directly comparable with independent benchmarks (see the appraisal section in the protocol).
 
