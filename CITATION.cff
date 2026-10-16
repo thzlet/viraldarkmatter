@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Viral dark matter: a systematic review of computational methods for classifying divergent viral sequences in metagenomic data (data and protocol)"
+type: dataset
+authors:
+  - family-names: Sousa
+    given-names: Letícia Rosemberg
+    affiliation: "Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)"
+repository-code: "https://github.com/thzlet/viraldarkmatter"
+license: MIT
+date-released: "2026-10-15"
+keywords:
+  - viral dark matter
+  - metagenomics
+  - virus identification
+  - systematic review
+  - PRISMA 2020
+  - deep learning
